@@ -1,0 +1,2 @@
+let name = ['aravind','gopal']
+console.log(name);
